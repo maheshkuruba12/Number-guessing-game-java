@@ -25,32 +25,38 @@ A simple command-line game where the player tries to guess a randomly generated 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/number-guessing-game.git
-Navigate to the project directory:
+## Navigate to the project directory:
 cd number-guessing-game
-Compile the Java source file:
+
+## Compile the Java source file:
 javac NumberGuessingGame.java
-Usage
+
+## Usage
 Run the game using the following command:
 java NumberGuessingGame
-How to Play
+
+## How to Play
 Start the game using the command above.
 You will be prompted to guess a number between 1 and 100.
 Enter your guess and press Enter.
 The game will inform you if your guess is too high, too low, or correct.
 Continue guessing until you find the correct number.
 The game displays the total number of attempts you made.
-Example
+
+## Example
 Welcome to the Number Guessing Game!
 Guess a number between 1 and 100: 50
 Too low! Try again: 75
 Too high! Try again: 63
 Congratulations! You guessed the number in 3 attempts.
-Contributing
+
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-This README provides a **clear structure**, including installation, usage, and gameplay instructions, making the Java number guessing game easy for others to run and contribute to. It also includes example output to guide the user.
+# Other Links
 
 [^1^]: https://www.geeksforgeeks.org/dsa/number-guessing-game-in-java/ "www.geeksforgeeks.org"
 [^2^]: https://www.w3resource.com/projects/java/java-number-guessing-game-project.php "www.w3resource.com"
